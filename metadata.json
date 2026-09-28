@@ -1,0 +1,6 @@
+{
+  "name": "CyberSentinel - Ethical Hacking & Cybersecurity Academy",
+  "description": "Safe, interactive ethical hacking, cybersecurity, and penetration testing learning platform. Master networking, Linux security, OWASP Top 10 vulnerabilities, Nmap & Wireshark tool workflows, hands-on lab terminals, CVSS reporting, and interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
